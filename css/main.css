@@ -23,6 +23,15 @@ h1 {
     font-size: 5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+    <style>
+        img {
+            width: 100%;
+        }           
+        h2 {
+            color: white;
+        }   
+        </style>
+}
 p {
     font-size: 2em;
     line-height: 1.4em;
